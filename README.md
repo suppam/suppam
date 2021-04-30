@@ -20,6 +20,7 @@ Career Orientation and Experience -
 
 Interests - 
 	Fitness, Cycling, Sports, Training, Music
+	as well as finding ways to use programming and code to visualize data and combine the hobbies
 
 <!---
 suppam/suppam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
